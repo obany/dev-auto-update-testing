@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: firefly-desktop-1.0.0.exe
+    sha512: Z4TeAUXGV+DVMuY4j6sl039h4fZAQH7IBfbl/fAsngvrhq62mTN8WGhHV6N84GTcxots9VTugsHV1LP1XhL3Mg==
+    size: 87031092
+path: firefly-desktop-1.0.0.exe
+sha512: Z4TeAUXGV+DVMuY4j6sl039h4fZAQH7IBfbl/fAsngvrhq62mTN8WGhHV6N84GTcxots9VTugsHV1LP1XhL3Mg==
+releaseDate: '2021-02-03T12:40:31.848Z'
